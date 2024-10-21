@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.7.3",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
